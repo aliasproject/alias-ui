@@ -1,0 +1,20 @@
+{
+  "name": "@aliasproject/alias-ui",
+  "version": "0.1",
+  "description": "Base UI Styles for web applications",
+  "main": "js/ui.js",
+  "style": "css/ui.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliasproject/alias-ui.git"
+  },
+  "author": "Alias Project",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliasproject/alias-ui/issues"
+  },
+  "homepage": "https://github.com/aliasproject/alias-ui#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
